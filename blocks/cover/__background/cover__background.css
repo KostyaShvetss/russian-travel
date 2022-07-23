@@ -3,14 +3,13 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  max-width: calc(100% - 2*48px);
+  max-width: calc(100vw - 2*48px);
   display: flex;
   flex-direction: column;
   align-content: stretch;
   justify-content: center;
   min-height: 740px;
   margin: 0 auto;
-  max-width: 1184px;
   z-index: 1;
   text-decoration: none;
   color: #fff;
