@@ -28,6 +28,13 @@
   }
 }
 
+@media screen and (max-width: 560px) {
+  .place {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px 16px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .place {
     max-height: 1042px;
