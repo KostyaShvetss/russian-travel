@@ -3,9 +3,10 @@
   font-size: 18px;
   line-height: 22px;
   text-align: center;
-  white-space: pre-line;
   margin: 32px 0 0;
   z-index: 1;
+  text-align: center;
+  align-self: center;
 }
 
 @media screen and (max-width: 320px) {
@@ -13,5 +14,6 @@
     font-size: 14px;
     line-height: 16px;
     margin: 16px 0 0;
+    max-width: 288px;
   }
 }
