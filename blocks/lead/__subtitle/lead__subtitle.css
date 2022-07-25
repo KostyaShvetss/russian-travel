@@ -5,8 +5,8 @@
   font-weight: 400;
   font-size: 30px;
   line-height: 36px;
-  white-space: pre-line;
   box-sizing: border-box;
+  max-width: 640px;
 }
 
 @media screen and (max-width: 1024px) {
@@ -35,5 +35,6 @@
     line-height: 20px;
     margin: 16px 0 40px;
     padding: 0 16px 0;
+    max-width: 288px;
   }
 }

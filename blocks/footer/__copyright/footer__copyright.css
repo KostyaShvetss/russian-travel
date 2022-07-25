@@ -10,6 +10,27 @@
 
 @media screen and (max-width: 648px) {
   .footer__copyright {
+    font-size: 12px;
+    line-height: 12px;
+  }
+}
+
+@media screen and (max-width: 490px) {
+  .footer__copyright {
+    font-size: 10px;
+    line-height: 10px;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .footer__copyright {
+    font-size: 8px;
+    line-height: 8px;
+  }
+}
+
+@media screen and (max-width: 345px) {
+  .footer__copyright {
     font-size: 6px;
     line-height: 6px;
   }
