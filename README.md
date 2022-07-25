@@ -2,7 +2,7 @@
 
 Проект представляет собой одностраничный, который состоит из нескольких секций.
 
-- [Ссылка страницу на GitHubPages] (https://kostyashvetss.github.io/russian-travel/)
+- Ссылка страницу на GitHubPages: https://kostyashvetss.github.io/russian-travel/
 
 ## Информационные блоки:
 
