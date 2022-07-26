@@ -8,35 +8,14 @@
   align-self: center;
 }
 
-@media screen and (max-width: 648px) {
+@media screen and (max-width: 655px) {
   .footer__copyright {
-    font-size: 12px;
-    line-height: 12px;
+    font-size: 14px;
+    line-height: 14px;
   }
 }
 
-@media screen and (max-width: 490px) {
-  .footer__copyright {
-    font-size: 10px;
-    line-height: 10px;
-  }
-}
-
-@media screen and (max-width: 420px) {
-  .footer__copyright {
-    font-size: 8px;
-    line-height: 8px;
-  }
-}
-
-@media screen and (max-width: 345px) {
-  .footer__copyright {
-    font-size: 6px;
-    line-height: 6px;
-  }
-}
-
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 550px) {
   .footer__copyright {
     align-self: flex-start;
     margin: 48px 0 0;
