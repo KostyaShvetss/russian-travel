@@ -10,7 +10,6 @@
 
 @media screen and (max-width: 655px) {
   .footer__copyright {
-    font-size: 14px;
     line-height: 14px;
   }
 }
@@ -19,7 +18,5 @@
   .footer__copyright {
     align-self: flex-start;
     margin: 48px 0 0;
-    line-height: 14px;
-    font-size: 14px;
   }
 }
